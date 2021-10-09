@@ -25,9 +25,9 @@ Time and date factors (e.g., hour of the day, day of the week) are transformed i
 | Upscaling factor (N) |           4          |
 | Latitude range       |   34.20°N - 34.28°N  |
 | Longitude range      |  108.92°E - 109.01°E |
-| Temperature/◦C       |      [11.0,32.0]     |
-| Wind speed / mph     |        [0,9.3]       |
+| Temperature/◦C       |      [11.0, 32.0]     |
+| Wind speed / mph     |        [0, 9.3]       |
 | Weather conditions   |        9 types       |
-| Humidity             |      [36%,100%]      |
-| Pressure /hPa        |      [1004,1026]     |
+| Humidity             |      [36%, 100%]      |
+| Pressure /hPa        |      [1004, 1026]     |
 | Holidays             |           7          |
