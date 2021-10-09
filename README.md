@@ -9,7 +9,7 @@ The dataset consists of twoparts, coarse- and fine-grained flow maps, where the 
 
 We collect meteorology factors of Xi'an from [Wold Climate Data](en.tutiempo.net) and the weather condition includes 9 categories (e.g., rainy, sunny and cloudy), then we digitize these categories into ordinal values.
 
-We also include humidity and atmospheric pressure data for each flow map. Temperature, wind speed, humidity and pressure are scaled into the range $[0, 1]$ with a min-max linear normalization. 
+We also include humidity and atmospheric pressure data for each flow map. Temperature, wind speed, humidity and pressure are scaled into the range [0, 1] with a min-max linear normalization. 
 
 Time and date factors (e.g., hour of the day, day of the week) are transformed into ordinal values. 
 
