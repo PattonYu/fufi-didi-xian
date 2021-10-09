@@ -23,8 +23,8 @@ Time and date factors (e.g., hour of the day, day of the week) are transformed i
 | Coarse-grained size  |        32 × 32       |
 | Fine-grained size    |       128 × 128      |
 | Upscaling factor (N) |           4          |
-| Latitude range       |   34.20◦N - 34.28◦N  |
-| Longitude range      |  108.92◦E - 109.01◦E |
+| Latitude range       |   34.20°N - 34.28°N  |
+| Longitude range      |  108.92°E - 109.01°E |
 | Temperature/◦C       |      [11.0,32.0]     |
 | Wind speed / mph     |        [0,9.3]       |
 | Weather conditions   |        9 types       |
