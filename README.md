@@ -1,6 +1,8 @@
 # DiDi-Xi'an dataset for FUFI problem
 
-## Data source
+<details>
+
+<summary> Data source <\summary>
 This dataset is collected by [DiDi Chuxing GAIA Initiative](https://outreach.didichuxing.com/research/opendata), it contains about 1 Bilion trajectories of DiDi drivers in Xi’an, China from October 1 to October 31, 2016. 
 
 ## Data processing
@@ -31,3 +33,5 @@ Time and date factors (e.g., hour of the day, day of the week) are transformed i
 | Humidity             |      [36%, 100%]      |
 | Pressure /hPa        |      [1004, 1026]     |
 | Holidays             |           7          |
+
+<\details>
