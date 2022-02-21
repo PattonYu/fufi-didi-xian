@@ -8,7 +8,7 @@
   @inproceedings{Liang:2019:UIF:3292500.3330646,
    author = {Zhong, Ting and Yu, Haoyang and Li, Rongfan and Xu, Xovee and Luo, Xucheng and Zhou, Fan},
    title = {PROBABILISTIC FINE-GRAINED URBAN FLOW INFERENCE WITH NORMALIZING FLOWS},
-   booktitle = {IEEE International Conference on Acoustics, Speech and Signal Processing, ICASSP 2022},
+   booktitle = {{IEEE} International Conference on Acoustics, Speech and Signal Processing, {ICASSP} 2022},
    year = {2022}
 } 
   ```
