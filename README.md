@@ -8,7 +8,7 @@ This dataset is collected by [DiDi Chuxing GAIA Initiative](https://outreach.did
 </details>
 
 <details>
-<summary> ## Data processing </summary>
+<summary> Data processing </summary>
   
 In this dataset, we divide data into training, validation and test set in a ratio of 2 : 1 : 1.
 The dataset consists of twoparts, coarse- and fine-grained flow maps, where the coarse- maps are divided into pixel regions of size 32×32 and the fine- maps are divided into size of 128x128.
@@ -20,7 +20,8 @@ We also include humidity and atmospheric pressure data for each flow map. Temper
 Time and date factors (e.g., hour of the day, day of the week) are transformed into ordinal values. 
 </details>
 
-<summary> ## Dataset description </summary>
+<details>
+<summary> Dataset description </summary>
   
 | Dataset              |      DiDi-Xi’an      |
 |----------------------|:--------------------:|
@@ -37,10 +38,16 @@ Time and date factors (e.g., hour of the day, day of the week) are transformed i
 | Humidity             |      [36%, 100%]      |
 | Pressure /hPa        |      [1004, 1026]     |
 | Holidays             |           7          |
+</details>
 
+<details>
+<summary> Usage </summary>
 
-  <summary> Usage </summary>
+The structure and usage details of the dataset can be refered to [UrbanFM](https://github.com/yoshall/UrbanFM).
   
-  asdasdasd
-  
+Unzip train.zip, test.zip, valid.zip into dataset folder of UrbanFM, and run the following command:
+```
+ python -m UrbanFM.train --ext_flag --dataset "didixian"
+```
+</details>
 
