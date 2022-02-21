@@ -2,10 +2,12 @@
 
 <details>
 
-<summary> Data source <\summary>
+<summary> ## Data source </summary>
+  
 This dataset is collected by [DiDi Chuxing GAIA Initiative](https://outreach.didichuxing.com/research/opendata), it contains about 1 Bilion trajectories of DiDi drivers in Xi’an, China from October 1 to October 31, 2016. 
 
-## Data processing
+<summary> ## Data processing </summary>
+  
 In this dataset, we divide data into training, validation and test set in a ratio of 2 : 1 : 1.
 The dataset consists of twoparts, coarse- and fine-grained flow maps, where the coarse- maps are divided into pixel regions of size 32×32 and the fine- maps are divided into size of 128x128.
 
@@ -15,9 +17,8 @@ We also include humidity and atmospheric pressure data for each flow map. Temper
 
 Time and date factors (e.g., hour of the day, day of the week) are transformed into ordinal values. 
 
-## Dataset description
-
-
+<summary> ## Dataset description </summary>
+  
 | Dataset              |      DiDi-Xi’an      |
 |----------------------|:--------------------:|
 | Time range           | 10/1/2016-10/31/2016 |
@@ -34,4 +35,9 @@ Time and date factors (e.g., hour of the day, day of the week) are transformed i
 | Pressure /hPa        |      [1004, 1026]     |
 | Holidays             |           7          |
 
-<\details>
+
+  <summary> Usage </summary>
+  
+  asdasdasd
+  
+</details>
