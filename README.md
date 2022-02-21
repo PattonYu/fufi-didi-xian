@@ -1,7 +1,21 @@
 # DiDi-Xi'an dataset for FUFI problem
 
 <details>
+  <summary> Paper </summary>
+  
+  If you find our paper or dataset useful for your research, please cite:
+  ```
+  @inproceedings{Liang:2019:UIF:3292500.3330646,
+   author = {Zhong, Ting and Yu, Haoyang and Li, Rongfan and Xu, Xovee and Luo, Xucheng and Zhou, Fan},
+   title = {PROBABILISTIC FINE-GRAINED URBAN FLOW INFERENCE WITH NORMALIZING FLOWS},
+   booktitle = {IEEE International Conference on Acoustics, Speech and Signal Processing, ICASSP 2022},
+   year = {2022}
+} 
+  ```
+  
+</details>
 
+<details>
 <summary> Data source </summary>
   
 This dataset is collected by [DiDi Chuxing GAIA Initiative](https://outreach.didichuxing.com/research/opendata), it contains about 1 Bilion trajectories of DiDi drivers in Xi’an, China from October 1 to October 31, 2016. 
