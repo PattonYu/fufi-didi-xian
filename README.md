@@ -45,7 +45,7 @@ Time and date factors (e.g., hour of the day, day of the week) are transformed i
 
 The structure and usage details of the dataset can be refered to [UrbanFM](https://github.com/yoshall/UrbanFM).
   
-Unzip train.zip, test.zip, valid.zip into dataset folder of UrbanFM, and run the following command:
+Unzip train.zip, test.zip, valid.zip into didixian folder, and then move didixian folder to dataset folder of UrbanFM, run the following command:
 ```
  python -m UrbanFM.train --ext_flag --dataset "didixian"
 ```
