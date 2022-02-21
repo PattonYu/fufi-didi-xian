@@ -2,10 +2,12 @@
 
 <details>
 
-<summary> ## Data source </summary>
+<summary> Data source </summary>
   
 This dataset is collected by [DiDi Chuxing GAIA Initiative](https://outreach.didichuxing.com/research/opendata), it contains about 1 Bilion trajectories of DiDi drivers in Xi’an, China from October 1 to October 31, 2016. 
+</details>
 
+<details>
 <summary> ## Data processing </summary>
   
 In this dataset, we divide data into training, validation and test set in a ratio of 2 : 1 : 1.
@@ -16,6 +18,7 @@ We collect meteorology factors of Xi'an from [Wold Climate Data](https://en.tuti
 We also include humidity and atmospheric pressure data for each flow map. Temperature, wind speed, humidity and pressure are scaled into the range [0, 1] with a min-max linear normalization. 
 
 Time and date factors (e.g., hour of the day, day of the week) are transformed into ordinal values. 
+</details>
 
 <summary> ## Dataset description </summary>
   
@@ -40,4 +43,4 @@ Time and date factors (e.g., hour of the day, day of the week) are transformed i
   
   asdasdasd
   
-</details>
+
