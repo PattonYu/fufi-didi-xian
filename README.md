@@ -5,7 +5,7 @@
   
   If you find our paper or dataset useful for your research, please cite:
   ```
-  @inproceedings{Liang:2019:UIF:3292500.3330646,
+  @inproceedings{Zhong2022FUFI,
    author = {Zhong, Ting and Yu, Haoyang and Li, Rongfan and Xu, Xovee and Luo, Xucheng and Zhou, Fan},
    title = {Probabilistic Fine-Grained Urban Flow Inference with Normalizing Flows},
    booktitle = {{IEEE} International Conference on Acoustics, Speech and Signal Processing, {ICASSP} 2022},
