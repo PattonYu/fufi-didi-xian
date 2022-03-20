@@ -1,8 +1,6 @@
 # DiDi-Xi'an dataset for FUFI problem
 
-<details>
-  <summary> Paper </summary>
-  
+## paper
   If you find our paper or dataset useful for your research, please cite:
   ```
   @inproceedings{Zhong2022FUFI,
@@ -12,7 +10,6 @@
    year = {2022}
 } 
   ```
-</details>
 
 <details>
 <summary> Data source </summary>
