@@ -1,6 +1,7 @@
 # DiDi-Xi'an dataset for FUFI problem
 
 ## paper
+  Dataset of paper: [Probabilistic Fine-Grained Urban Flow Inference with Normalizing Flows.](https://github.com/PattonYu/pattonyu.github.io/blob/main/papers/ICASSP_2022_FUFI.pdf)
   If you find our paper or dataset useful for your research, please cite:
   ```
   @inproceedings{Zhong2022FUFI,
